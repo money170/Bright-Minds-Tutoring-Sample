@@ -34,12 +34,6 @@ A modern, responsive website for a local tutoring business built with HTML, CSS,
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - No additional dependencies required
 
-### Installation
-
-1. Clone or download the project files
-2. Open `index.html` in your web browser
-3. The website is ready to use!
-
 ### File Structure
 
 ```
@@ -49,22 +43,6 @@ bright-minds-tutoring/
 ├── script.js           # JavaScript functionality
 └── README.md           # Project documentation
 ```
-
-## 🛠️ Customization
-
-### Updating Content
-
-- **Business Information**: Edit the contact details in the HTML file
-- **Testimonials**: Replace the sample testimonials with real customer reviews
-- **Subjects**: Modify the subjects offered and their descriptions
-- **Colors**: Update the CSS variables in `styles.css` to match your brand
-
-### Adding Features
-
-- **Contact Form Backend**: Integrate with email services or form handlers
-- **Booking System**: Add appointment scheduling functionality
-- **Blog Section**: Include educational content and updates
-- **Social Media**: Add social media links and feeds
 
 ## 📱 Responsive Design
 
@@ -98,21 +76,10 @@ The website is fully responsive and optimized for:
 - Minimal JavaScript footprint
 - Fast loading times
 
-## 📞 Contact Information
-
-**Bright Minds Tutoring**
-- Phone: (555) 123-4567
-- Email: info@brightmindstutoring.com
-- Address: 123 Education St, Learning City, LC 12345
 
 ## 📄 License
 
-This project is created for educational and business purposes. Feel free to customize and use for your own tutoring business.
-
+This project is created for sample and showcase purposes for NextGen Sites in which it doesn't exist
 ## 👨‍💻 Credits
 
 **Designed by NextGen Sites © 2025**
-
----
-
-*Built with ❤️ for helping students shine in every subject*
